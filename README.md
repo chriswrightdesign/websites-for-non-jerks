@@ -12,6 +12,12 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Tested with ChromeVox? (or JAWS if you have the moneys).
 - Have you used WAI-Aria landmark roles correctly?
 
+#Content
+
+- Have all decisions enhanced and emphasized the content?
+- Are you chunking content to allow for skim reading and ease of re-use?
+- Has the content driven the design decisions, or has it been visa versa?
+
 #Usability
 
 - Can you perform the main tasks of a site on any device?
@@ -84,6 +90,4 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Run tests on mobitest? or something like it?
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links?
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator?
-
-#Content
 
