@@ -3,6 +3,15 @@ happy-website-checklist
 
 A checklist for friendly websites (accessible, performant,  and portable device happy), and some accompanying links to back up the list items. Some facts included.
 
+#Accessibility
+
+- Structured your markup well and in a way that makes sense?
+- Considered contrast and colour blindness?
+- Hows your tab key going? unplug your mouse, use the site.
+- Have you tested in Wave?
+- Tested with ChromeVox? (or JAWS if you have the moneys).
+- Have you used WAI-Aria landmark roles correctly?
+
 #Usability
 
 - Can you perform the main tasks of a site on any device?
