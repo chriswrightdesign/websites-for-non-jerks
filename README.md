@@ -49,7 +49,8 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #Typography 
 
-- Can you read the type clearly? on larger screens is your line length limited to (roughly) 75 chars?
+- Can you read the type clearly?
+- On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Are your font-sizes and line-heights em/rem based?
 
 #Screen Size
