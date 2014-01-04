@@ -91,3 +91,6 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links?
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator?
 
+#Kinetic
+
+
