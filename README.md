@@ -1,7 +1,7 @@
 happy-website-checklist
 =======================
 
-A checklist for friendly websites (accessible, performant,  and portable device happy), and some accompanying links to back up the list items. Some facts included.
+A checklist for friendly websites (accessible, performant,  and portable device happy). Where possible I will provide a link to where I got the information/idea from.
 
 #Accessibility
 
