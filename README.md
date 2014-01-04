@@ -5,7 +5,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #Accessibility
 
-- Structured your markup well and in a way that makes sense?
+- Structured your markup well and in a way that makes sense? (Related link on semantic structure)[http://webaim.org/techniques/semanticstructure/]
 - Considered contrast and colour blindness?
 - Hows your tab key going? unplug your mouse, use the site.
 - Have you tested in Wave?
