@@ -21,12 +21,12 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 #Usability
 
 - Can you perform the main tasks of a site on any device?
-- Are the button hit areas large enough for a finger/thumb?
+- Are the button hit areas large enough (min 44px) for a finger/thumb? [Apple's guidelines](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/DesigningNativeApp/DesigningNativeApp.html#//apple_ref/doc/uid/TP40006556-CH4-SW1), [Windows guidelines](http://go.microsoft.com/?linkid=9713252), [Nokia's Guidlines](http://library.developer.nokia.com/index.jsp?topic=/S60_5th_Edition_Cpp_Developers_Library/GUID-5486EFD3-4660-4C19-A007-286DE48F6EEF.html)
+- Have you got feature detection? Can your site/app tell the difference between a click and a tap? a swipe? [Modernizr](http://modernizr.com/)
 - If something required click drag, did you cover swipe?
-- Have you got feature detection? Can your site/app tell the difference between a click and a tap? a swipe?
 - Are you making the visitor wait 300ms for a tap gesture?
 - Are you aware of the different quirks between iOS to Android to Windows Phones?
-- No unicode for hamburger menus
+- Not using unicode for hamburger menus (Android will not render)
 - Will a tap-drag (selection of text) cause a problem with your interface?
 - If you used a fixed header on your site, did you try pinching your site to see if it’s still good on a smaller device?
 - How are you dealing with complex navigation? If you have a massively complex site structure have you provided in site search?
