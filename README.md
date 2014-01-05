@@ -3,7 +3,7 @@ happy-website-checklist
 
 A checklist for friendly websites (accessible, performant,  and portable device happy). Where possible I will provide a link to where I got the information/idea from.
 
-#Accessibility
+#1. Accessibility
 
 - Structured your markup well and in a way that makes sense?  [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
 - Considered contrast and colour blindness? [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
@@ -12,13 +12,13 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Tested with ChromeVox? (or JAWS if you have the moneys). [ChromeVox](http://www.chromevox.com/), [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
 - Have you used WAI-Aria landmark roles correctly? [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
 
-#Content
+#2. Content
 
 - Have all decisions enhanced and emphasized the content?
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Has the content driven the design decisions, or has it been visa versa?
 
-#Usability
+#3. Usability
 
 - Can you perform the main tasks of a site on any device?
 - Are the button hit areas large enough (min 44px) for a finger/thumb? [Apple's guidelines](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/DesigningNativeApp/DesigningNativeApp.html#//apple_ref/doc/uid/TP40006556-CH4-SW1), [Windows guidelines](http://go.microsoft.com/?linkid=9713252), [Nokia's Guidlines](http://library.developer.nokia.com/index.jsp?topic=/S60_5th_Edition_Cpp_Developers_Library/GUID-5486EFD3-4660-4C19-A007-286DE48F6EEF.html)
@@ -36,7 +36,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Are you hijacking scroll, or hijacking the screen with modals? [Hijacking scroll](http://trentwalton.com/2013/10/23/scroll-hijacking/)
 - Are you embracing progressive enhancement for devices and browsers with less features? [Progressive enhancement](http://adactio.com/journal/1700/)
 
-#Forms and Form controls
+#4. Forms and Form controls
 
 - Reduced the number of fields? Is all the data you’re making them input really necessary?
 - Are your errors clear and in non-programmer language?
@@ -47,13 +47,13 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - How are you handling select boxes with massive amounts of options?
 - If you have a number stepper, is it the standard up down that’s difficult to tap?
 
-#Typography 
+#5. Typography 
 
 - Can you read the type clearly?
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Are your font-sizes and line-heights em/rem based?
 
-#Screen Size
+#6. Viewport Flexibility
 
 - How does your site behave ‘between’ the media queries?
 - Are your media queries Em-based?
@@ -62,7 +62,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?)
 - If you used window.MatchMedia at all, did you consider fallback for Windows phones? (or use a polyfill)?
 
-#Responsive Imagery
+#7. Responsive Imagery
 
 - Did you weep and question your life choices when you saw the state of responsive images?
 - Have you got a responsive image solution? Does it display an image with JS turned off?
@@ -73,7 +73,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Are you serving different sized images to different devices?
 - How are you dealing with Retina devices?
 
-#Performance
+#8. Performance
 
 - Have you set a performance budget?
 - Considered page load time and its effects on your visitors?
@@ -92,6 +92,6 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links?
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator?
 
-#Kinetic
+#9. Kinetic
 
 
