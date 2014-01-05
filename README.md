@@ -52,6 +52,9 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Can you read the type clearly?
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Are your font-sizes and line-heights em/rem based?
+- Have you chosen appropriate font families for headlines and body copy?
+- Did you look at how the font family rendered in different browser and devices?
+- Does the type marry with the content it communicates?
 
 #6. Viewport Flexibility
 
