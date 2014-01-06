@@ -98,3 +98,4 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 #9. Kinetic
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) 
+- Does the easing and timing match the personality of the interface?
