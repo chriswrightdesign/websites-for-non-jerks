@@ -32,7 +32,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - How are you dealing with complex navigation? If you have a massively complex site structure have you provided in site search? [Responsive navigation patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
 - If you're using offscreen navigation, have you put a containing div for the overflow hidden to deal with the Android body overflow hidden issue?
 - Are you relying on hover for anything? [Non hover](http://trentwalton.com/2010/07/05/non-hover/)
-- Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html)
+- Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html), [Just in time education](http://www.lukew.com/ff/entry.asp?1786)
 - Are you hijacking scroll, or hijacking the screen with modals? [Hijacking scroll](http://trentwalton.com/2013/10/23/scroll-hijacking/)
 - Are you embracing progressive enhancement for devices and browsers with less features? [Progressive enhancement](http://adactio.com/journal/1700/)
 
