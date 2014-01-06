@@ -18,7 +18,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Has the content driven the design decisions, or has it been visa versa?
 - Have you revisited the hierarchy of important information? [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
-- Are you hiding useful content for people because you assume they won’t use it? 
+- Are you hiding useful content for people because you assume they won’t use it?  [Content parity](http://gomakethings.com/content-parity-on-the-web/)
 - If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
 - Do you really need that image carousel or is it just politically convenient? [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel)
 - How are you dealing with large infographics or tables? 
