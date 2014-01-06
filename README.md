@@ -112,7 +112,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Did you put your resources on CDNs where relevant?
 - Did you run a bandwidth restriction tool to test how the site loads at different bandwidths? [Charles Proxy](http://www.charlesproxy.com/), [Slowy app](http://slowyapp.com/)
 - Run tests on mobitest? or something like it? [Akamai mobile test](http://mobitest.akamai.com/m/index.cgi)
-- Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/)
+- Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/), [Social count by the filament group](http://filamentgroup.com/lab/socialcount/)
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator? [Jekyll](http://jekyllrb.com/)
 
 #9. Kinetic
