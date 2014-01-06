@@ -58,12 +58,12 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #6. Viewport Flexibility
 
-- How does your site behave ‘between’ the media queries?
-- Are your media queries Em-based?
-- Have you considered using grids for your layout?
-- Have you embraced the unpredictable nature of new device sizes that don’t exist yet?
-- Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?)
-- If you used window.MatchMedia at all, did you consider fallback for Windows phones? (or use a polyfill)?
+- How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content)
+- Are your media queries Em-based? [http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/](The ems have it - proportional media queries)
+- Have you considered using grids for your layout? [On responsive layouts and grids](http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/)
+- Have you embraced the unpredictable nature of new device sizes that don’t exist yet? [Future Friendly](http://futurefriendlyweb.com/) 
+- Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?) [Why the fold is a myth](http://blog.kissmetrics.com/why-the-fold-is-a-myth/)
+- If you used [window.MatchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window.matchMedia) at all, did you consider fallback for Windows phones? (or use a polyfill)? [MatchMedia.js polyfill](https://github.com/paulirish/matchMedia.js/)
 
 #7. Responsive Imagery
 
