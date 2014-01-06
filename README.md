@@ -3,7 +3,7 @@ happy-website-checklist
 
 A checklist for friendly websites (accessible, performant, and portable device happy). 
 
-#1. Accessibility
+##1. Accessibility
 
 - Structured your markup well and in a way that makes sense?    [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
 - Considered contrast and colour blindness?     [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
@@ -12,7 +12,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Tested with ChromeVox? (or JAWS if you have the moneys).          [ChromeVox](http://www.chromevox.com/), [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
 - Have you used WAI-Aria landmark roles correctly?          [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
 
-#2. Content
+##2. Content
 
 - Have all decisions enhanced and emphasized the content?
 - Are you chunking content to allow for skim reading and ease of re-use?
@@ -27,7 +27,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/)
 
 
-#3. Usability
+##3. Usability
 
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
@@ -49,7 +49,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Have you trapped visitors in iframe purgatory on tap gesture devices?
 - Have you trapped visitors in infinite scrolling hell?
 
-#4. Forms and Form controls
+##4. Forms and Form controls
 
 - Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416)
 - Reduced the number of fields? Is all the data you’re making them input really necessary? [Case Study: Fewer input fields increases conversion](http://www.lukew.com/ff/entry.asp?910)
@@ -61,7 +61,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - How are you handling select boxes with massive amounts of options?
 - If you have a number stepper, is it the standard up down that’s difficult to tap?
 
-#5. Typography 
+##5. Typography 
 
 - Can you read the type clearly?
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
@@ -85,7 +85,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - If you used [window.MatchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window.matchMedia) at all, did you consider fallback for Windows phones? (or use a polyfill)? [MatchMedia.js polyfill](https://github.com/paulirish/matchMedia.js/)
 - Considered how the site is viewed in embedded browsers (such as Facebook/Twitter on handsets) [Embedded mobile browser use](http://www.lukew.com/ff/entry.asp?1801)
 
-#7. Responsive Imagery
+##7. Responsive Imagery
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
@@ -96,7 +96,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Are you serving different sized images to different devices? [Responsive images](http://blog.cloudfour.com/responsive-imgs/)
 - How are you dealing with Retina devices?
 
-#8. Performance
+##8. Performance
 
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
@@ -115,7 +115,15 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/), [Social count by the filament group](http://filamentgroup.com/lab/socialcount/)
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator? [Jekyll](http://jekyllrb.com/)
 
-#9. Kinetic
+##9. Kinetic
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) 
 - Does the easing and timing match the personality of the interface?
+
+##10. Deliverables
+
+- [The post PSD era](http://danielmall.com/articles/the-post-psd-era/)
+- [Style prototypes](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+- [Element collages](http://danielmall.com/articles/rif-element-collages/)
+- [Style tiles](http://styletil.es/)
+- [Responsive deliverables](http://daverupert.com/2013/04/responsive-deliverables/)
