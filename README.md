@@ -29,7 +29,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 - Not using unicode for hamburger menus (Android will not render)? [Unicode hamburger does not work](https://twitter.com/davatron5000/status/341646818926530560)
 - Will a tap-drag (selection of text) cause a problem with your interface?
 - If you used a fixed header on your site, did you try pinching your site to see if it’s still good on a smaller device? [Fixed position](http://bradfrostweb.com/blog/mobile/fixed-position/)
-- How are you dealing with complex navigation? If you have a massively complex site structure have you provided in site search?
+- How are you dealing with complex navigation? If you have a massively complex site structure have you provided in site search? [Responsive navigation patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
 - If you're using offscreen navigation, have you put a containing div for the overflow hidden to deal with the Android body overflow hidden issue?
 - Are you relying on hover for anything? [Non hover](http://trentwalton.com/2010/07/05/non-hover/)
 - Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html)
