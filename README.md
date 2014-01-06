@@ -108,6 +108,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
 - Are you minifying the CSS/JS? Are you concatenating multiple files into single files?
 - Are you using conditional loading? [Conditional loading](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#conditional-loading)
+- Do you have a method to test the connection speed? [Using Javascript to estimate connection speed](http://decadecity.net/blog/2013/05/08/using-javascript-to-estimate-connection-speed)
 - Did you gzip?
 - Did you put your resources on CDNs where relevant?
 - Did you run a bandwidth restriction tool to test how the site loads at different bandwidths? [Charles Proxy](http://www.charlesproxy.com/), [Slowy app](http://slowyapp.com/)
