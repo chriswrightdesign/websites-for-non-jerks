@@ -54,7 +54,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Can you read the type clearly?
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
-- Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc)
+- Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc) [Contrast through scale](http://typecast.com/blog/contrast-through-scale)
 - Are your font-sizes and line-heights em/rem based?
 - Considered screen distances? [Responsive typography: the basics](http://ia.net/blog/responsive-typography-the-basics/)
 - Have you chosen appropriate font families for headlines and body copy?
