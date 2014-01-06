@@ -46,8 +46,8 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html), [Just in time education](http://www.lukew.com/ff/entry.asp?1786)
 - Are you hijacking scroll, or hijacking the screen with modals? [Hijacking scroll](http://trentwalton.com/2013/10/23/scroll-hijacking/)
 - Are you embracing progressive enhancement for devices and browsers with less features? [Progressive enhancement](http://adactio.com/journal/1700/)
-- Have you trapped visitors in iframe purgatory on tap gesture devices?
-- Have you trapped visitors in infinite scrolling hell?
+- Have you trapped visitors in iframe purgatory on tap gesture devices? [Responsive iframe](http://npr.github.io/responsiveiframe/)
+- Have you trapped visitors in infinite scrolling hell? [Why infinite scrolling sucks](http://frontand.de/why-infinite-scrolling-sucks/)
 
 ##4. Forms and Form controls
 
