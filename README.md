@@ -56,6 +56,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
 - Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc)
 - Are your font-sizes and line-heights em/rem based?
+- Considered screen distances? [Responsive typography: the basics](http://ia.net/blog/responsive-typography-the-basics/)
 - Have you chosen appropriate font families for headlines and body copy?
 - Did you look at how the font family rendered in different browser and devices?
 - Does the type marry with the content it communicates?
