@@ -24,7 +24,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - How are you dealing with large infographics or tables? 
 - Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
-- How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/)
+- How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
 
 ##3. Usability
@@ -32,7 +32,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
 - Are the button hit areas large enough (min 44px) for a finger/thumb? [Apple's guidelines](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/DesigningNativeApp/DesigningNativeApp.html#//apple_ref/doc/uid/TP40006556-CH4-SW1), [Windows guidelines](http://go.microsoft.com/?linkid=9713252), [Nokia's Guidlines](http://library.developer.nokia.com/index.jsp?topic=/S60_5th_Edition_Cpp_Developers_Library/GUID-5486EFD3-4660-4C19-A007-286DE48F6EEF.html)
-- Have you got feature detection? Can your site/app tell the difference between a click and a tap? a swipe? [Modernizr](http://modernizr.com/)
+- Have you got feature detection? Can your site/app tell the difference between a click and a tap? a swipe? [Modernizr](http://modernizr.com/), [Modernizr server](https://github.com/jamesgpearce/modernizr-server)
 - If something required click drag, did you cover swipe?
 - Are you making the visitor wait 300ms for a tap gesture? [Avoiding the 300ms click delay](http://timkadlec.com/2013/11/Avoiding-the-300ms-click-delay-accessibly/)
 - Are you aware of the different quirks between iOS to Android to Windows Phones? [CanIuse](http://caniuse.com/)
