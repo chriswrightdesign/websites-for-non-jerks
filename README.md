@@ -66,6 +66,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content)
 - Are your media queries Em-based? [http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/](The ems have it - proportional media queries)
+- Not relying on screen.width? [Screen.width is useless](http://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html)
 - Have you considered using grids for your layout? [On responsive layouts and grids](http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/), [Five simple steps to designing grid systems](http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-preface)
 - Have you embraced the unpredictable nature of new device sizes that don’t exist yet? [Future Friendly](http://futurefriendlyweb.com/) 
 - Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?) [Why the fold is a myth](http://blog.kissmetrics.com/why-the-fold-is-a-myth/)
