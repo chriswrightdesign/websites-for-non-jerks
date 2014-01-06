@@ -38,6 +38,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #4. Forms and Form controls
 
+- Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416)
 - Reduced the number of fields? Is all the data you’re making them input really necessary?
 - Are your errors clear and in non-programmer language?
 - Do you actually expect people to be able to use Captcha on a phone?
