@@ -54,7 +54,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Can you read the type clearly?
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
-- Are you creating a clear hierarchy between different typographic elements? (headlines, long form copy, lists etc)
+- Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc)
 - Are your font-sizes and line-heights em/rem based?
 - Have you chosen appropriate font families for headlines and body copy?
 - Did you look at how the font family rendered in different browser and devices?
@@ -98,7 +98,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Did you put your resources on CDNs where relevant?
 - Did you run a bandwidth restriction tool to test how the site loads at different bandwidths?
 - Run tests on mobitest? or something like it?
-- Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links?
+- Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/)
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator?
 
 #9. Kinetic
