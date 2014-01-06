@@ -76,7 +76,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
-- Do you have a lazy load solution for larger pages with lots of images or data that’s not immediately needed?
+- Do you have a lazy load solution for larger pages with lots of images or data that’s not immediately needed? [Echo.js, simple Javascript lazy loading solution](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
 - Have you used SVGs (with PNG fallback) or Webfonts where you can?
 - Have you sprited to reduce HTTP requests?
 - Have you compressed all of your PNGs and JPGs?
