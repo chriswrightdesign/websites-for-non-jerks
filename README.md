@@ -102,7 +102,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
 - Have you minimised HTTP requests to free up memory? [Google best practices](https://developers.google.com/speed/docs/best-practices/request)
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
-- How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page?
+- How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/)
 - Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 - Do you really need a framework for that thing or can you just use pure CSS or pure JS?
 - If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
