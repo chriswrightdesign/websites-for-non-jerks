@@ -5,12 +5,12 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #1. Accessibility
 
-- Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
-- Considered contrast and colour blindness? [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
-- Hows your tab key going? unplug your mouse, use the site. [On basic accessibility testing](http://24ways.org/2013/coding-towards-accessibility/)
-- Have you tested in Wave? [Wave accessibility tester](http://wave.webaim.org/)
-- Tested with ChromeVox? (or JAWS if you have the moneys). [ChromeVox](http://www.chromevox.com/), [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
-- Have you used WAI-Aria landmark roles correctly? [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
+- Structured your markup well and in a way that makes sense?  [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
+- Considered contrast and colour blindness?   [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
+- Hows your tab key going? unplug your mouse, use the site.   [On basic accessibility testing](http://24ways.org/2013/coding-towards-accessibility/)
+- Have you tested in Wave?  [Wave accessibility tester](http://wave.webaim.org/)
+- Tested with ChromeVox? (or JAWS if you have the moneys).  [ChromeVox](http://www.chromevox.com/), [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
+- Have you used WAI-Aria landmark roles correctly?  [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
 
 #2. Content
 
