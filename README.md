@@ -17,6 +17,15 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Have all decisions enhanced and emphasized the content?
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Has the content driven the design decisions, or has it been visa versa?
+- Have you revisited the hierarchy of important information?
+- Are you hiding useful content for people because you assume they won’t use it? 
+- If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
+- Do you really need that image carousel or is it just politically convenient?
+- How are you dealing with large infographics or tables?
+- Have you organised tables based on how people will use the info?
+- How are you dealing with video, both in scale and bandwidth?
+- How are you dealing with maps (especially google maps)?
+
 
 #3. Usability
 
@@ -37,6 +46,8 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html), [Just in time education](http://www.lukew.com/ff/entry.asp?1786)
 - Are you hijacking scroll, or hijacking the screen with modals? [Hijacking scroll](http://trentwalton.com/2013/10/23/scroll-hijacking/)
 - Are you embracing progressive enhancement for devices and browsers with less features? [Progressive enhancement](http://adactio.com/journal/1700/)
+- Have you trapped visitors in iframe purgatory on tap gesture devices?
+- Have you trapped visitors in infinite scrolling hell?
 
 #4. Forms and Form controls
 
