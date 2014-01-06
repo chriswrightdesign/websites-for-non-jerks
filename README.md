@@ -115,6 +115,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Run tests on mobitest? or something like it? [Akamai mobile test](http://mobitest.akamai.com/m/index.cgi)
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/), [Social count by the filament group](http://filamentgroup.com/lab/socialcount/)
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator? [Jekyll](http://jekyllrb.com/)
+- Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
 
 ##9. Kinetic
 
