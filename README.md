@@ -55,11 +55,11 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Reduced the number of fields? Is all the data you’re making them input really necessary? [Case Study: Fewer input fields increases conversion](http://www.lukew.com/ff/entry.asp?910)
 - Are your errors clear and in non-programmer language?
 - Do you actually expect people to be able to use Captcha on a phone?
-- Have inline validation? Realtime feedback?
-- Are you making use of the number pad on smaller phone style portable devices?
-- Are you making passwords hidden or visible for smaller devices?
+- Have inline validation? Realtime feedback? [Inline validation in web forms](http://alistapart.com/article/inline-validation-in-web-forms)
+- Are you making use of the number pad on smaller phone style portable devices? [Better numerical input for mobile forms](http://bradfrostweb.com/blog/mobile/better-numerical-inputs-for-mobile-forms/)
+- Are you making passwords hidden or visible for smaller devices? [Mobile design details: hide/show passwords](http://www.lukew.com/ff/entry.asp?1653=)
 - How are you handling select boxes with massive amounts of options?
-- If you have a number stepper, is it the standard up down that’s difficult to tap?
+- If you have a number stepper (input range), is it the standard up down that’s difficult to tap?
 
 ##5. Typography 
 
