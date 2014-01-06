@@ -5,7 +5,7 @@ A checklist for friendly websites (accessible, performant,  and portable device 
 
 #1. Accessibility
 
-- Structured your markup well and in a way that makes sense?  [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
+- Structured your markup well and in a way that makes sense? > [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
 - Considered contrast and colour blindness? [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
 - Hows your tab key going? unplug your mouse, use the site. [On basic accessibility testing](http://24ways.org/2013/coding-towards-accessibility/)
 - Have you tested in Wave? [Wave accessibility tester](http://wave.webaim.org/)
