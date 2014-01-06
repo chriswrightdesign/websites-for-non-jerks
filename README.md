@@ -17,14 +17,14 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Have all decisions enhanced and emphasized the content?
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Has the content driven the design decisions, or has it been visa versa?
-- Have you revisited the hierarchy of important information?
+- Have you revisited the hierarchy of important information? [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
 - Are you hiding useful content for people because you assume they won’t use it? 
 - If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
-- Do you really need that image carousel or is it just politically convenient?
-- How are you dealing with large infographics or tables?
-- Have you organised tables based on how people will use the info?
-- How are you dealing with video, both in scale and bandwidth?
-- How are you dealing with maps (especially google maps)?
+- Do you really need that image carousel or is it just politically convenient? [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel)
+- How are you dealing with large infographics or tables? 
+- Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
+- How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
+- How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/)
 
 
 #3. Usability
@@ -98,22 +98,22 @@ A checklist for friendly websites (accessible, performant, and portable device h
 
 #8. Performance
 
-- Have you set a performance budget?
-- Considered page load time and its effects on your visitors?
-- Have you minimised HTTP requests to free up memory?
-- Have you minimised the repaints and reflows?
+- Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
+- Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
+- Have you minimised HTTP requests to free up memory? [Google best practices](https://developers.google.com/speed/docs/best-practices/request)
+- Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
 - How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page?
-- Did you order non blocking resources first? did you use async on the JS?
+- Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 - Do you really need a framework for that thing or can you just use pure CSS or pure JS?
-- If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat?
+- If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
 - Are you minifying the CSS/JS? Are you concatenating multiple files into single files?
-- Are you using conditional loading?
+- Are you using conditional loading? [Conditional loading](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#conditional-loading)
 - Did you gzip?
 - Did you put your resources on CDNs where relevant?
-- Did you run a bandwidth restriction tool to test how the site loads at different bandwidths?
-- Run tests on mobitest? or something like it?
+- Did you run a bandwidth restriction tool to test how the site loads at different bandwidths? [Charles Proxy](http://www.charlesproxy.com/), [Slowy app](http://slowyapp.com/)
+- Run tests on mobitest? or something like it? [Akamai mobile test](http://mobitest.akamai.com/m/index.cgi)
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/)
-- Considered not using Wordpress/Drupal/whatever and switching to a Static site generator?
+- Considered not using Wordpress/Drupal/whatever and switching to a Static site generator? [Jekyll](http://jekyllrb.com/)
 
 #9. Kinetic
 
