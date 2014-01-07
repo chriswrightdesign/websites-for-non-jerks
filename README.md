@@ -84,6 +84,7 @@ A checklist for friendly websites (accessible, performant, and portable device h
 - Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?) [Why the fold is a myth](http://blog.kissmetrics.com/why-the-fold-is-a-myth/), [Life below 600](http://iampaddy.com/lifebelow600/), [UX Myth: people don't scroll](http://uxmyths.com/post/654047943/myth-people-dont-scroll)
 - If you used [window.MatchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window.matchMedia) at all, did you consider fallback for Windows phones? (or use a polyfill)? [MatchMedia.js polyfill](https://github.com/paulirish/matchMedia.js/)
 - Considered how the site is viewed in embedded browsers (such as Facebook/Twitter on handsets) [Embedded mobile browser use](http://www.lukew.com/ff/entry.asp?1801)
+- Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 
 ##7. Responsive Imagery
 
