@@ -16,7 +16,7 @@ An argument buster and responsible decision primer for websites - with links to 
 
 ##2. Content
 
-- Have all design decisions enhanced and emphasized the content?
+- Have all design decisions enhanced and emphasized the content? [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Embraced high quality writing? [Website reading](http://www.nngroup.com/articles/website-reading/), [Blah-blah text - keep,cut or kill](http://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/)
 - Has the content driven the design decisions, or has it been visa versa?
@@ -52,6 +52,7 @@ An argument buster and responsible decision primer for websites - with links to 
 - Are you embracing progressive enhancement for devices and browsers with less features? [Progressive enhancement](http://adactio.com/journal/1700/), [Progressive enhancement, it's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
 - Have you trapped visitors in iframe purgatory on tap gesture devices? [Responsive iframe](http://npr.github.io/responsiveiframe/)
 - Have you trapped visitors in infinite scrolling hell? [Why infinite scrolling sucks](http://frontand.de/why-infinite-scrolling-sucks/)
+- If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
 
 ##4. Forms and Form controls
 
@@ -107,7 +108,7 @@ An argument buster and responsible decision primer for websites - with links to 
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
 - Have you minimised HTTP requests to free up memory? [Google best practices](https://developers.google.com/speed/docs/best-practices/request)
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
-- How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/)
+- How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/), [Responsive design, & web page sizes](http://www.lukew.com/ff/entry.asp?1681)
 - Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 - Do you really need a framework for that thing or can you just use pure CSS or pure JS?
 - If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
