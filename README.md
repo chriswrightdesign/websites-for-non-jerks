@@ -20,7 +20,7 @@ A checklist for friendly websites (accessible, performant, progressively enhance
 - Have you revisited the hierarchy of important information? [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
 - Are you hiding useful content for people because you assume they won’t use it?  [Content parity](http://gomakethings.com/content-parity-on-the-web/), [State of mobile web sources](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
 - If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
-- Do you really need that image carousel or is it just politically convenient? [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel)
+- Do you really need that image carousel or is it just politically convenient? [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats](http://weedygarden.net/2013/01/carousel-stats/)
 - How are you dealing with large infographics or tables? 
 - Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
