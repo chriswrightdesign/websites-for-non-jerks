@@ -17,6 +17,7 @@ An argument buster and responsible decision primer for websites - with links to 
 ##2. Content
 
 - Have all design decisions enhanced and emphasized the content?
+- Embraced high quality writing? [Website reading](http://www.nngroup.com/articles/website-reading/)
 - Are you chunking content to allow for skim reading and ease of re-use?
 - Has the content driven the design decisions, or has it been visa versa?
 - Have you focused on cutting down to just the important stuff on the homepage instead of trying to cram everything on the one page? [Minimize cognitive load](http://www.nngroup.com/articles/minimize-cognitive-load/)
