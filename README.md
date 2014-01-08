@@ -3,9 +3,11 @@ happy-website-checklist
 
 A checklist for friendly websites (accessible, performant, progressively enhanced, and portable device happy). 
 
+An argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion. 
+
 ##1. Accessibility
 
-- Structured your markup well and in a way that makes sense?    [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
+- Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
 - Considered contrast and colour blindness?     [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
 - Hows your tab key going? unplug your mouse, use the site.     [On basic accessibility testing](http://24ways.org/2013/coding-towards-accessibility/)
 - Have you tested in Wave?  [Wave accessibility tester](http://wave.webaim.org/)
@@ -16,12 +18,13 @@ A checklist for friendly websites (accessible, performant, progressively enhance
 
 - Have all design decisions enhanced and emphasized the content?
 - Are you chunking content to allow for skim reading and ease of re-use?
+- Embraced high quality writing? [Website reading](http://www.nngroup.com/articles/website-reading/), [Blah-blah text - keep,cut or kill](http://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/)
 - Has the content driven the design decisions, or has it been visa versa?
 - Have you focused on cutting down to just the important stuff on the homepage instead of trying to cram everything on the one page? [Minimize cognitive load](http://www.nngroup.com/articles/minimize-cognitive-load/)
 - Have you revisited the hierarchy of important information? [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
 - Are you hiding useful content for people because you assume they won’t use it?  [Content parity](http://gomakethings.com/content-parity-on-the-web/), [State of mobile web sources](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
 - If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
-- Do you really need that image carousel or is it just politically convenient? [Auto-Forwarding Carousels annoy users and Reduce visibility](http://www.nngroup.com/articles/auto-forwarding/), [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats (updated)](http://weedygarden.net/2013/07/carousel-interaction-stats/), [Carousels](http://bradfrostweb.com/blog/post/carousels/)
+- Do you really need that image carousel or is it just politically convenient? [Auto-Forwarding Carousels annoy users and Reduce visibility](http://www.nngroup.com/articles/auto-forwarding/), [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats (updated)](http://weedygarden.net/2013/07/carousel-interaction-stats/), [Carousels](http://bradfrostweb.com/blog/post/carousels/), [Designing effective carousels](http://www.nngroup.com/articles/designing-effective-carousels/)
 - How are you dealing with large infographics or tables? 
 - Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
