@@ -1,9 +1,7 @@
-happy-website-checklist v0.1
+happy-website-checklist
 =======================
 
 A checklist for friendly websites (accessible, performant, progressively enhanced, and portable device happy). 
-
-An argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion. 
 
 ##1. Accessibility
 
