@@ -101,8 +101,8 @@ An argument buster and responsible decision primer for websites - with links to 
 - Have you sprited to reduce HTTP requests? [CSS Sprites](http://css-tricks.com/css-sprites/)
 - Have you compressed all of your PNGs and JPGs? [Grunt imagemin](https://github.com/gruntjs/grunt-contrib-imagemin), [TinyPNG](https://tinypng.com/)
 - Are you serving different sized images to different devices? [Responsive images](http://blog.cloudfour.com/responsive-imgs/)
-- How are you dealing with Retina devices?
-- Maybe combining with a server side solution might help? [Adaptive images in HTML](http://adaptive-images.com/)
+- How are you dealing with Retina devices? [Compressive images](http://filamentgroup.com/lab/rwd_img_compression/)
+- Maybe combining with a server side solution might help? [Adaptive images](http://adaptive-images.com/)
 
 ##8. Performance
 
