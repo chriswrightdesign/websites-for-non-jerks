@@ -1,4 +1,4 @@
-happy-website-checklist
+Websites for non-jerks
 =======================
 
 A checklist for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
