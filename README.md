@@ -54,6 +54,7 @@ An argument buster and responsible decision primer for websites - with links to 
 - Have you trapped visitors in iframe purgatory on tap gesture devices? [Responsive iframe](http://npr.github.io/responsiveiframe/)
 - Have you trapped visitors in infinite scrolling hell? [Why infinite scrolling sucks](http://frontand.de/why-infinite-scrolling-sucks/)
 - If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
+- How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
 
 ##4. Forms and Form controls
 
