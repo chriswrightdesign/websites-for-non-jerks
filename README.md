@@ -131,7 +131,16 @@ An argument buster and responsible decision primer for websites - with links to 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
 - Does the easing and timing match the personality of the interface?
 
-##10. Deliverables
+##10. Testing
+
+- [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
+- [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
+- [Open device lab](http://opendevicelab.com/)
+- [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
+- [BrowserStack](http://www.browserstack.com/start)
+- [Node Browserify](https://github.com/substack/node-browserify)
+
+##11. Deliverables
 
 - [The post PSD era](http://danielmall.com/articles/the-post-psd-era/)
 - [Style prototypes](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
