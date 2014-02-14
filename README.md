@@ -7,12 +7,15 @@ An argument buster and responsible decision primer for websites - with links to 
 
 ##1. Accessibility
 
+- [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
 - Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
 - Considered contrast and colour blindness?     [Colour blindness and contrast](http://www.visionaustralia.org/digital-access-cca)
 - How's your tab key going? unplug your mouse, use the site.     [On basic accessibility testing](http://24ways.org/2013/coding-towards-accessibility/), [Designing for easy interaction](http://alistapart.com/article/designing-for-easy-interaction)
 - Have you tested in Wave? (and are aware that this will only take you so far in acessibility) [Wave accessibility tester](http://wave.webaim.org/)
 - Tested with voice control? [Apple voiceover](http://www.apple.com/au/accessibility/osx/voiceover/), [NVDA for FireFox](http://www.mozilla.org/en-US/grants/nvda.html), [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [ChromeVox](http://www.chromevox.com/)
 - Have you used WAI-Aria landmark roles correctly?          [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
+- [Designing apps for the visually impaired](http://realmacsoftware.com/blog/designing-apps-for-the-visually-impaired)
+- Be careful what you do with labels  [Labels in inputs might not be such a good idea](http://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/)
 - Tested with real human beings?
 
 ##2. Content
