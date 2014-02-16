@@ -16,7 +16,7 @@ An argument buster and responsible decision primer for websites - with links to 
 - Have you used WAI-Aria landmark roles correctly?          [Using WAI-Aria landmark roles](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
 - [Designing apps for the visually impaired](http://realmacsoftware.com/blog/designing-apps-for-the-visually-impaired)
 - Be careful what you do with labels  [Labels in inputs might not be such a good idea](http://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/)
-- Tested with real human beings?
+- How are you communicating the current page? [The accessible current page link conundrum](http://www.heydonworks.com/article/the-accessible-current-page-link-conundrum)
 
 ##2. Content
 
