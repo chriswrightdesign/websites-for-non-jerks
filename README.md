@@ -17,6 +17,8 @@ An argument buster and responsible decision primer for websites - with links to 
 - [Designing apps for the visually impaired](http://realmacsoftware.com/blog/designing-apps-for-the-visually-impaired)
 - Be careful what you do with labels  [Labels in inputs might not be such a good idea](http://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/)
 - How are you communicating the current page? [The accessible current page link conundrum](http://www.heydonworks.com/article/the-accessible-current-page-link-conundrum)
+- No one needs a carousel, but if you ignore me, here's some instructions on getting them to work accessibly [Carousels and aria tabs](http://www.webaxe.org/carousels-and-aria-tabs)
+- Since very few people understand the accessibility guidelines fully, the BBC have provided us with a simplified version [Best practice accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
 ##2. Content
 
