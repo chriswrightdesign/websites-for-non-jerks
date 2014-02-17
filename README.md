@@ -134,6 +134,8 @@ An argument buster and responsible decision primer for websites - with links to 
 ##9. Kinetic
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
+- [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
+- [Web animation at work](http://alistapart.com/article/web-animation-at-work)
 - Does the easing and timing match the personality of the interface?
 
 ##10. Testing
