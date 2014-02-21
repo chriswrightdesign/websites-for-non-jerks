@@ -76,6 +76,7 @@ An argument buster and responsible decision primer for websites - with links to 
 ##5. Typography
 
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
+- Have you checked if that system font you're using will actually display on other devices and platforms? I'm looking at you Helvetica Neue [Tinytype - a compatibility table showing the available default system fonts across different mobie platforms](http://www.jordanm.co.uk/tinytype)
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
 - Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc) [Contrast through scale](http://typecast.com/blog/contrast-through-scale)
