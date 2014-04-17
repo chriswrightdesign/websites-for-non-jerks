@@ -1,9 +1,9 @@
 Websites for non-jerks
 =======================
 
-A checklist for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
+A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
-An argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
+This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
 
 ##1. Accessibility
 
@@ -79,14 +79,18 @@ An argument buster and responsible decision primer for websites - with links to 
 - Have you checked if that system font you're using will actually display on other devices and platforms? I'm looking at you Helvetica Neue [Tinytype - a compatibility table showing the available default system fonts across different mobie platforms](http://www.jordanm.co.uk/tinytype)
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
+- Understanding the mood of a typeface [A discussion on Quora on how one assesses the mood of a typeface](http://www.quora.com/Typography/How-does-one-assess-the-mood-of-a-typeface)
 - Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc) [Contrast through scale](http://typecast.com/blog/contrast-through-scale)
 - Are your font-sizes and line-heights em/rem based?
 - Considered screen distances? [Responsive typography: the basics](http://ia.net/blog/responsive-typography-the-basics/)
 - Have you chosen appropriate font families for headlines and body copy?
 - Did you look at how the font family rendered in different browser and devices?
 - Does the type marry with the content it communicates?
+- Need a better understanding of what typography is and why it's valuable? [Typography is how text works] (http://practice.typekit.com/lesson/typography-is-how-text-looks/)
+- Understanding responsive web typography [Advanced web typography: Responsive web typography](http://elliotjaystocks.com/blog/responsive-web-typography/)
+- Need some help selecting type with the appropriate tone? [Type finder](http://www.type-finder.com/)
 
-#6. Viewport Flexibility
+##6. Viewport Flexibility
 
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content), [The trouble with android](http://stephanierieger.com/the-trouble-with-android/)
@@ -132,6 +136,7 @@ An argument buster and responsible decision primer for websites - with links to 
 - Have you destroyed social button sleaze? or come up with a solution to replace social button sleaze with just links? [Sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/), [Social count by the filament group](http://filamentgroup.com/lab/socialcount/)
 - Considered not using Wordpress/Drupal/whatever and switching to a Static site generator? [Jekyll](http://jekyllrb.com/)
 - Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
+- Understanding CSS Performance [CSS Performance revisited: selectors, bloat and expensive styles](http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 
 ##9. Kinetic
 
@@ -139,6 +144,8 @@ An argument buster and responsible decision primer for websites - with links to 
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
 - [Web animation at work](http://alistapart.com/article/web-animation-at-work)
 - Does the easing and timing match the personality of the interface?
+- A primer on what animation properties perform the best [A tale of animation performance](http://css-tricks.com/tale-of-animation-performance/)
+- Rendering performance [JankFree](http://jankfree.org/)
 
 ##10. Testing
 
