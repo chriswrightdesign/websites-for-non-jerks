@@ -5,6 +5,8 @@ A guide for friendly websites (accessible, performant, progressively enhanced, a
 
 This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
 
+This guide will eventually be made into a website.
+
 ##1. Accessibility
 
 - [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
@@ -20,7 +22,12 @@ This is designed to be an argument buster and responsible decision primer for we
 - No one needs a carousel, but if you ignore me, here's some instructions on getting them to work accessibly [Carousels and aria tabs](http://www.webaxe.org/carousels-and-aria-tabs)
 - Since very few people understand the accessibility guidelines fully, the BBC have provided us with a simplified version [Best practice accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
-##2. Content
+##3. Better design decisions
+
+- Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
+- A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
+
+##4. Content
 
 - Have all design decisions enhanced and emphasized the content? [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
 - Are you chunking content to allow for skim reading and ease of re-use? [Don't let paper paradigms drive your digital strategy](http://blogs.hbr.org/2013/06/dont-let-paper-paradigms-drive/)
@@ -37,7 +44,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
 
-##3. Usability
+##5. Usability
 
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
@@ -61,7 +68,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
 - How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
 
-##4. Forms and Form controls
+##6. Forms &amp; Form controls
 
 - Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416)
 - Reduced the number of fields? Is all the data you’re making them input really necessary? [Case Study: Fewer input fields increases conversion](http://www.lukew.com/ff/entry.asp?910)
@@ -73,24 +80,25 @@ This is designed to be an argument buster and responsible decision primer for we
 - How are you handling select boxes with massive amounts of options?
 - If you have a number stepper (input range), is it the standard up down that’s difficult to tap?
 
-##5. Typography
+##7. Typography
 
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
 - Have you checked if that system font you're using will actually display on other devices and platforms? I'm looking at you Helvetica Neue [Tinytype - a compatibility table showing the available default system fonts across different mobie platforms](http://www.jordanm.co.uk/tinytype)
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
+- Some quick wins for better typography [Run ragged](http://24ways.org/2013/run-ragged/)
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
 - Understanding the mood of a typeface [A discussion on Quora on how one assesses the mood of a typeface](http://www.quora.com/Typography/How-does-one-assess-the-mood-of-a-typeface)
 - Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc) [Contrast through scale](http://typecast.com/blog/contrast-through-scale)
 - Are your font-sizes and line-heights em/rem based?
 - Considered screen distances? [Responsive typography: the basics](http://ia.net/blog/responsive-typography-the-basics/)
-- Have you chosen appropriate font families for headlines and body copy?
 - Did you look at how the font family rendered in different browser and devices?
-- Does the type marry with the content it communicates?
+- Does the type marry with the content it communicates? [Show and tell: a practical guide to choosing type](http://typecast.com/blog/show-and-tell-a-practical-look-at-choosing-type)
 - Need a better understanding of what typography is and why it's valuable? [Typography is how text works] (http://practice.typekit.com/lesson/typography-is-how-text-looks/)
 - Understanding responsive web typography [Advanced web typography: Responsive web typography](http://elliotjaystocks.com/blog/responsive-web-typography/)
-- Need some help selecting type with the appropriate tone? [Type finder](http://www.type-finder.com/)
+- Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
+- Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
 
-##6. Viewport Flexibility
+##8. Viewport Flexibility
 
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content), [The trouble with android](http://stephanierieger.com/the-trouble-with-android/)
@@ -104,7 +112,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
 
-##7. Responsive Imagery
+##9. Responsive Imagery
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
@@ -116,7 +124,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - How are you dealing with Retina devices? [Compressive images](http://filamentgroup.com/lab/rwd_img_compression/)
 - Maybe combining with a server side solution might help? [Adaptive images](http://adaptive-images.com/)
 
-##8. Performance
+##10. Performance
 
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
@@ -129,7 +137,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - Are you minifying the CSS/JS? Are you concatenating multiple files into single files?
 - Are you using conditional loading? [Conditional loading](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#conditional-loading)
 - Do you have a method to test the connection speed? [Using Javascript to estimate connection speed](http://decadecity.net/blog/2013/05/08/using-javascript-to-estimate-connection-speed)
-- Did you gzip?
+- Did you gzip? [Active Gzip compression](http://css-tricks.com/snippets/htaccess/active-gzip-compression/)
 - Did you put your resources on CDNs where relevant?
 - Did you run a bandwidth restriction tool to test how the site loads at different bandwidths? [Charles Proxy](http://www.charlesproxy.com/), [Slowy app](http://slowyapp.com/)
 - Run tests on mobitest? or something like it? [Akamai mobile test](http://mobitest.akamai.com/m/index.cgi)
@@ -138,7 +146,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
 - Understanding CSS Performance [CSS Performance revisited: selectors, bloat and expensive styles](http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 
-##9. Kinetic
+##11. Kinetic
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
@@ -147,7 +155,7 @@ This is designed to be an argument buster and responsible decision primer for we
 - A primer on what animation properties perform the best [A tale of animation performance](http://css-tricks.com/tale-of-animation-performance/)
 - Rendering performance [JankFree](http://jankfree.org/)
 
-##10. Testing
+##12. Testing
 
 - [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
 - [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
@@ -156,7 +164,9 @@ This is designed to be an argument buster and responsible decision primer for we
 - [BrowserStack](http://www.browserstack.com/start)
 - [Node Browserify](https://github.com/substack/node-browserify)
 
-##11. Deliverables
+##13. Deliverables
+
+#A. Client deliverables
 
 - [The post PSD era](http://danielmall.com/articles/the-post-psd-era/)
 - [Style prototypes](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
@@ -164,3 +174,8 @@ This is designed to be an argument buster and responsible decision primer for we
 - [Style tiles](http://styletil.es/)
 - [Responsive deliverables](http://daverupert.com/2013/04/responsive-deliverables/)
 - [Atomic design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+
+#B. Team deliverables
+
+- An example pattern library - [A List apart pattern library](http://patterns.alistapart.com/)
+
