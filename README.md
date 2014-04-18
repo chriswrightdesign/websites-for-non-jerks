@@ -7,14 +7,19 @@ This is designed to be an argument buster and responsible decision primer for we
 
 This guide will eventually be made into a website.
 
-##1. Early project
+##1. Strategies for early project
 
-- [Kickass kickoff meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
+- Making sure your values align with the client - [Prequalifying clients](http://danielmall.com/articles/prequalifying-clients/)
+- All about better project kick off meetings - [Kickass kickoff meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
 - [Better stakeholder interviews](http://cognition.happycog.com/article/better-stakeholder-interviews)
-- [Collaborative moodboards](http://markboulton.co.uk/journal/collaborativemoodboards)
-- [The 20 second 'gut' test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/)
-- [The priority &amp; feasability plot](http://goodkickoffmeetings.com/2010/04/priority-feasibility-plot/)
-- [Design personas](http://aarronwalter.com/design-personas/)
+- [A stakeholder interview checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
+- Giving clients words and understanding to express their thoughts - [Collaborative moodboards](http://markboulton.co.uk/journal/collaborativemoodboards)
+- Clarifying aesthetic preferences early -[The 20 second 'gut' test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/)
+- Instead of focusing on what a site should look like, focus on what a site should feel like - [A Visual inventory](http://danielmall.com/articles/visual-inventory/)
+- Better understanding client and business priorities - [The priority &amp; feasability plot](http://goodkickoffmeetings.com/2010/04/priority-feasibility-plot/)
+- Setting the tone and personality of the brand - [Design personas](http://aarronwalter.com/design-personas/)
+- Useful questions for project and client [One size fits none](http://cognition.happycog.com/article/one-size-fits-none)
+- Set your goals early so you can get better feedback [Getting better feedback](http://muledesign.com/2010/12/giving-better-design-feedback/)
 
 ##2. Better design decisions
 
@@ -75,6 +80,7 @@ This guide will eventually be made into a website.
 - Have you trapped visitors in infinite scrolling hell? [Why infinite scrolling sucks](http://frontand.de/why-infinite-scrolling-sucks/)
 - If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
 - How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
+- If you're making a product, how are users learning to use the product? [User onboarding - lessons from popular web apps](http://www.useronboard.com/)
 
 ##6. Forms &amp; Form controls
 
@@ -88,7 +94,16 @@ This guide will eventually be made into a website.
 - How are you handling select boxes with massive amounts of options?
 - If you have a number stepper (input range), is it the standard up down that’s difficult to tap?
 
-##7. Typography
+##7. Structuring your stylesheets for scale and change
+
+- Base, Element, Modifier [What is BEM?](http://bem.info/method/definitions/)
+- Scalable and Modular Architecture for CSS [SMACSS] (http://smacss.com/)
+- Object oriented CSS [OOCSS] (http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss-2/)
+- Multilayer CSS [MCSS](http://operatino.github.io/MCSS/en/)
+- Discussion on the different CSS Architecture methodologies [CSS Strategy](http://snugug.com/musings/css-strategy)
+- Combining OOCSS with Sass [OOCSS + Sass = The best way to CSS] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
+
+##8. Typography
 
 - The value of typography on the web - [The web is 95% typography](http://ia.net/blog/the-web-is-all-about-typography-period/)
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
@@ -108,7 +123,7 @@ This guide will eventually be made into a website.
 - Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
 - Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
 
-##8. Viewport Flexibility
+##9. Viewport Flexibility
 
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content), [The trouble with android](http://stephanierieger.com/the-trouble-with-android/)
@@ -122,7 +137,7 @@ This guide will eventually be made into a website.
 - Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
 
-##9. Flexible Media
+##10. Flexible Media
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
@@ -138,7 +153,7 @@ This guide will eventually be made into a website.
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
-##10. Performance
+##11. Performance
 
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
@@ -160,7 +175,7 @@ This guide will eventually be made into a website.
 - Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
 - Understanding CSS Performance [CSS Performance revisited: selectors, bloat and expensive styles](http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 
-##11. Kinetic
+##12. Kinetic / Animation
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
@@ -168,8 +183,10 @@ This guide will eventually be made into a website.
 - Does the easing and timing match the personality of the interface?
 - A primer on what animation properties perform the best [A tale of animation performance](http://css-tricks.com/tale-of-animation-performance/)
 - Rendering performance [JankFree](http://jankfree.org/)
+- A collection of animated interactions [Useyourinterface](http://useyourinterface.com/)
+- A Dribbble search on interaction as a source of inspiration [Dribbble](https://dribbble.com/search?q=interaction)
 
-##12. Testing
+##13. Testing
 
 - How to start your own open device lab - [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
 - Getting access to devices on a shoe string - [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
@@ -177,7 +194,7 @@ This guide will eventually be made into a website.
 - Making a portable open device lab [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
 - An application for testing a cross multiple browsers and devices - [BrowserStack](http://www.browserstack.com/start)
 
-##13. Deliverables
+##14. Deliverables
 
 #A. Client deliverables
 
