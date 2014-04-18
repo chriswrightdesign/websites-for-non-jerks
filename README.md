@@ -199,7 +199,7 @@ The project aim is to have happier, educated teams and better quality websites a
 
 ##14. Deliverables
 
-#A. Client deliverables
+###A. Client deliverables
 
 - [The post PSD era](http://danielmall.com/articles/the-post-psd-era/)
 - [Style prototypes](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
@@ -208,7 +208,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - [Responsive deliverables](http://daverupert.com/2013/04/responsive-deliverables/)
 - [Atomic design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 
-#B. Team deliverables
+###B. Team deliverables
 
 - A guide for writing content in the right voice &amp; tone [Voice and Tone: Mailchimp] (http://voiceandtone.com/)
 - An example pattern library - [A List apart pattern library](http://patterns.alistapart.com/)
