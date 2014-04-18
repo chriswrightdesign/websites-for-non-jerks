@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.4a - This guide will eventually be made into a website.
+v0.41a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -100,7 +100,9 @@ These are resources and tools that I think are excellent and add value to how we
 ##7. Structuring your stylesheets for scale and change
 
 - Base, Element, Modifier [What is BEM?](http://bem.info/method/definitions/)
+- Getting your head around BEM [Mind BEMding - getting your head 'round BEM Syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - Scalable and Modular Architecture for CSS [SMACSS] (http://smacss.com/)
+- Combining SMACSS and Sass [How to scale and maintain legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
 - Object oriented CSS [OOCSS] (http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss-2/)
 - Multilayer CSS [MCSS](http://operatino.github.io/MCSS/en/)
 - Discussion on the different CSS Architecture methodologies [CSS Strategy](http://snugug.com/musings/css-strategy)
@@ -127,6 +129,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
 - Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
 - An argument to why you might want to leave the base font size alone [How we learned to leave the body font size alone](http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/)
+- Some typography basics to consider [A pocket guide to master every day's typographic adventures](http://www.typogui.de/)
 
 ##9. Embracing viewport flexibility
 
@@ -141,6 +144,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Considered how the site is viewed in embedded browsers (such as Facebook/Twitter on handsets) [Embedded mobile browser use](http://www.lukew.com/ff/entry.asp?1801)
 - Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
+- [Vertical media queries and wide sites](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
 
 ##10. Understanding flexible media
 
@@ -188,6 +192,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Does the easing and timing match the personality of the interface?
 - A primer on what animation properties perform the best [A tale of animation performance](http://css-tricks.com/tale-of-animation-performance/)
 - Rendering performance [JankFree](http://jankfree.org/)
+- A visual reference of animatable properties [Animatable - One property, two values, endless possibilities](http://leaverou.github.io/animatable/)
 - A collection of animated interactions [Useyourinterface](http://useyourinterface.com/)
 - A Dribbble search on interaction as a source of inspiration [Dribbble](https://dribbble.com/search?q=interaction)
 
