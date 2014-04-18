@@ -29,7 +29,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
 - A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
 
-##3. Accessibility
+##3. Accessibility and making websites for all
 
 - [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
 - Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
@@ -45,7 +45,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Since very few people understand the accessibility guidelines fully, the BBC have provided us with a simplified version [Best practice accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
 
-##4. Content
+##4. Thinking about content first
 
 - Have all design decisions enhanced and emphasized the content? [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
 - Are you chunking content to allow for skim reading and ease of re-use? [Don't let paper paradigms drive your digital strategy](http://blogs.hbr.org/2013/06/dont-let-paper-paradigms-drive/)
@@ -60,7 +60,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Avoiding the "crowbar" scenario [The content quandry](http://www.webcontentstrategy.com.au/the-content-quandary-when-the-words-wont-fit/)
 - Some example content snippets to help avoid lorem ipsum [Content snippets - specific copy examples](http://www.contentsnippets.com/)
 
-##5. Usability
+##5. Making things more usable
 
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
@@ -85,7 +85,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
 - If you're making a product, how are users learning to use the product? [User onboarding - lessons from popular web apps](http://www.useronboard.com/)
 
-##6. Forms &amp; Form controls
+##6. Easy Forms &amp; Form controls
 
 - Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416)
 - Reduced the number of fields? Is all the data you’re making them input really necessary? [Case Study: Fewer input fields increases conversion](http://www.lukew.com/ff/entry.asp?910)
@@ -106,7 +106,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Discussion on the different CSS Architecture methodologies [CSS Strategy](http://snugug.com/musings/css-strategy)
 - Combining OOCSS with Sass [OOCSS + Sass = The best way to CSS] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
 
-##8. Typography
+##8. Typography - Establishing tone and making it readable
 
 - The value of typography on the web - [The web is 95% typography](http://ia.net/blog/the-web-is-all-about-typography-period/)
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
@@ -126,7 +126,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
 - Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
 
-##9. Viewport Flexibility
+##9. Embracing viewport flexibility
 
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content), [The trouble with android](http://stephanierieger.com/the-trouble-with-android/)
@@ -140,7 +140,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
 
-##10. Flexible Media
+##10. Understanding flexible media
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
@@ -156,7 +156,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
-##11. Performance
+##11. Avoid frustrating people: Care about performance
 
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
@@ -178,7 +178,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
 - Understanding CSS Performance [CSS Performance revisited: selectors, bloat and expensive styles](http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 
-##12. Kinetic / Animation
+##12. Bringing the design alive - Kinetic / Animation
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
@@ -189,7 +189,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - A collection of animated interactions [Useyourinterface](http://useyourinterface.com/)
 - A Dribbble search on interaction as a source of inspiration [Dribbble](https://dribbble.com/search?q=interaction)
 
-##13. Testing
+##13. Testing for multiple devices and browsers
 
 - How to start your own open device lab - [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
 - Getting access to devices on a shoe string - [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
@@ -197,7 +197,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Making a portable open device lab [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
 - An application for testing a cross multiple browsers and devices - [BrowserStack](http://www.browserstack.com/start)
 
-##14. Deliverables
+##14. Deliverables for clients and teams
 
 ###A. Client deliverables
 
