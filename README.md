@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.41a - This guide will eventually be made into a website.
+v0.42a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -20,14 +20,17 @@ These are resources and tools that I think are excellent and add value to how we
 - Clarifying aesthetic preferences early -[The 20 second 'gut' test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/)
 - Instead of focusing on what a site should look like, focus on what a site should feel like - [A Visual inventory](http://danielmall.com/articles/visual-inventory/)
 - Better understanding client and business priorities - [The priority &amp; feasability plot](http://goodkickoffmeetings.com/2010/04/priority-feasibility-plot/)
+- A Group process for establishing priorities [The KJ Technique](http://www.uie.com/articles/kj_technique/)
 - Setting the tone and personality of the brand - [Design personas](http://aarronwalter.com/design-personas/)
 - Useful questions for project and client [One size fits none](http://cognition.happycog.com/article/one-size-fits-none)
 - Set your goals early so you can get better feedback [Getting better feedback](http://muledesign.com/2010/12/giving-better-design-feedback/)
+- Establishing goals for feedback [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 
 ##2. Better design decisions
 
 - Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
 - A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
+- A visual look at some of the cognitive biases we have [Cognitive biases - a visual study guide](http://www.scribd.com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide)
 
 ##3. Accessibility and making websites for all
 
@@ -84,6 +87,7 @@ These are resources and tools that I think are excellent and add value to how we
 - If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
 - How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
 - If you're making a product, how are users learning to use the product? [User onboarding - lessons from popular web apps](http://www.useronboard.com/)
+- Don't give your users shit work [Don't give your users shit work](http://zachholman.com/posts/shit-work/)
 
 ##6. Easy Forms &amp; Form controls
 
@@ -138,7 +142,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Are your media queries Em-based? [http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/](The ems have it - proportional media queries)
 - Not relying on screen.width? [Screen.width is useless](http://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html)
 - Have you considered using grids for your layout? [On responsive layouts and grids](http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/), [Five simple steps to designing grid systems](http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-preface)
-- Have you embraced the unpredictable nature of new device sizes that don’t exist yet? [Future Friendly](http://futurefriendlyweb.com/)
+- About embracing the future [Future Friendly](http://futurefriendlyweb.com/)
 - Have you let concepts of ‘the fold’ rest in the historical irrelevance it deserves? (AKA the fold for what screen?) [Why the fold is a myth](http://blog.kissmetrics.com/why-the-fold-is-a-myth/), [Life below 600](http://iampaddy.com/lifebelow600/), [UX Myth: people don't scroll](http://uxmyths.com/post/654047943/myth-people-dont-scroll), [As the page scrolls](http://www.uie.com/articles/page_scrolling), [Scrolling is easier than clicking](http://bokardo.com/archives/scrolling-easier-clicking/)
 - If you used [window.MatchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window.matchMedia) at all, did you consider fallback for Windows phones? (or use a polyfill)? [MatchMedia.js polyfill](https://github.com/paulirish/matchMedia.js/)
 - Considered how the site is viewed in embedded browsers (such as Facebook/Twitter on handsets) [Embedded mobile browser use](http://www.lukew.com/ff/entry.asp?1801)
