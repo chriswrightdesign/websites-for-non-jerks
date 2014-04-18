@@ -1,13 +1,13 @@
 Websites for non-jerks
 =======================
 
-v0.3a - This guide will eventually be made into a website.
+v0.4a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
-This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
-
 The project aim is to have happier, educated teams and better quality websites and apps.
+
+These are resources and tools that I think are excellent and add value to how we approach what we make. This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed a discussion.
 
 
 ##1. Strategies for early project
@@ -116,7 +116,7 @@ The project aim is to have happier, educated teams and better quality websites a
 - Is the type size an equivalent of 15-25px? [Butterick's Practical Typography Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
 - Understanding the mood of a typeface [A discussion on Quora on how one assesses the mood of a typeface](http://www.quora.com/Typography/How-does-one-assess-the-mood-of-a-typeface)
 - Are you creating contrast between different typographic elements? (headlines, long form copy, lists etc) [Contrast through scale](http://typecast.com/blog/contrast-through-scale)
-- Are your font-sizes and line-heights em/rem based?
+- Are your font-sizes and line-heights em/rem based? [Why Ems] (http://css-tricks.com/why-ems/)
 - Considered screen distances? [Responsive typography: the basics](http://ia.net/blog/responsive-typography-the-basics/)
 - Did you look at how the font family rendered in different browser and devices?
 - Does the type marry with the content it communicates? [Show and tell: a practical guide to choosing type](http://typecast.com/blog/show-and-tell-a-practical-look-at-choosing-type)
