@@ -1,11 +1,14 @@
 Websites for non-jerks
 =======================
 
+v0.3a - This guide will eventually be made into a website.
+
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
-This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion. The aim is to have happier, educated teams and better quality websites and apps.
+This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
 
-This guide will eventually be made into a website.
+The project aim is to have happier, educated teams and better quality websites and apps.
+
 
 ##1. Strategies for early project
 
