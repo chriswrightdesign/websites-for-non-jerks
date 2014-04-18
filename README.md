@@ -3,11 +3,25 @@ Websites for non-jerks
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
-This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion.
+This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed the discussion. The aim is to have happier, educated teams and better quality websites and apps.
 
 This guide will eventually be made into a website.
 
-##1. Accessibility
+##1. Early project
+
+- [Kickass kickoff meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
+- [Better stakeholder interviews](http://cognition.happycog.com/article/better-stakeholder-interviews)
+- [Collaborative moodboards](http://markboulton.co.uk/journal/collaborativemoodboards)
+- [The 20 second 'gut' test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/)
+- [The priority &amp; feasability plot](http://goodkickoffmeetings.com/2010/04/priority-feasibility-plot/)
+- [Design personas](http://aarronwalter.com/design-personas/)
+
+##2. Better design decisions
+
+- Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
+- A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
+
+##3. Accessibility
 
 - [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
 - Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
@@ -22,10 +36,6 @@ This guide will eventually be made into a website.
 - No one needs a carousel, but if you ignore me, here's some instructions on getting them to work accessibly [Carousels and aria tabs](http://www.webaxe.org/carousels-and-aria-tabs)
 - Since very few people understand the accessibility guidelines fully, the BBC have provided us with a simplified version [Best practice accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
-##3. Better design decisions
-
-- Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
-- A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
 
 ##4. Content
 
@@ -38,11 +48,9 @@ This guide will eventually be made into a website.
 - Are you hiding useful content for people because you assume they won’t use it?  [Content parity](http://gomakethings.com/content-parity-on-the-web/), [State of mobile web sources](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
 - If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
 - Do you really need that image carousel or is it just politically convenient? [Auto-Forwarding Carousels annoy users and Reduce visibility](http://www.nngroup.com/articles/auto-forwarding/), [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats (updated)](http://weedygarden.net/2013/07/carousel-interaction-stats/), [Carousels](http://bradfrostweb.com/blog/post/carousels/), [Designing effective carousels](http://www.nngroup.com/articles/designing-effective-carousels/)
-- How are you dealing with large infographics or tables?
 - Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
-- How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
-- How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
-
+- Avoiding the "crowbar" scenario [The content quandry](http://www.webcontentstrategy.com.au/the-content-quandary-when-the-words-wont-fit/)
+- Some example content snippets to help avoid lorem ipsum [Content snippets - specific copy examples](http://www.contentsnippets.com/)
 
 ##5. Usability
 
@@ -82,6 +90,7 @@ This guide will eventually be made into a website.
 
 ##7. Typography
 
+- The value of typography on the web - [The web is 95% typography](http://ia.net/blog/the-web-is-all-about-typography-period/)
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
 - Have you checked if that system font you're using will actually display on other devices and platforms? I'm looking at you Helvetica Neue [Tinytype - a compatibility table showing the available default system fonts across different mobie platforms](http://www.jordanm.co.uk/tinytype)
 - On larger screens is your line length limited to (roughly) 75 chars? [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
@@ -95,6 +104,7 @@ This guide will eventually be made into a website.
 - Does the type marry with the content it communicates? [Show and tell: a practical guide to choosing type](http://typecast.com/blog/show-and-tell-a-practical-look-at-choosing-type)
 - Need a better understanding of what typography is and why it's valuable? [Typography is how text works] (http://practice.typekit.com/lesson/typography-is-how-text-looks/)
 - Understanding responsive web typography [Advanced web typography: Responsive web typography](http://elliotjaystocks.com/blog/responsive-web-typography/)
+- On proportions and rhythm in responsive design [A more modern scale for web typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
 - Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
 
@@ -112,17 +122,21 @@ This guide will eventually be made into a website.
 - Is it technically responsive? [Defining responsiveness](http://blog.cloudfour.com/author/jason-grigsby/), [Responsive web design](http://alistapart.com/article/responsive-web-design/)
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
 
-##9. Responsive Imagery
+##9. Flexible Media
 
 - Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
 - Do you have a lazy load solution for larger pages with lots of images or data that’s not immediately needed? [Echo.js, simple Javascript lazy loading solution](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
 - Have you used SVGs (with PNG fallback) or Webfonts where you can?
+- If you've used Icon fonts, are you aware of potential issues with compatibility mode IE8? [Icon fonts, unicode ranges, and IE8's compatibility mode](http://clearleft.com/thinks/iconfontsunicoderangesandie8scompatibilitymode/)
+- An alternative to icon fonts is to use SVG as template [SVG Icons FTW](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
 - Have you sprited to reduce HTTP requests? [CSS Sprites](http://css-tricks.com/css-sprites/)
 - Have you compressed all of your PNGs and JPGs? [Grunt imagemin](https://github.com/gruntjs/grunt-contrib-imagemin), [TinyPNG](https://tinypng.com/)
 - Are you serving different sized images to different devices? [Responsive images](http://blog.cloudfour.com/responsive-imgs/)
 - How are you dealing with Retina devices? [Compressive images](http://filamentgroup.com/lab/rwd_img_compression/)
 - Maybe combining with a server side solution might help? [Adaptive images](http://adaptive-images.com/)
+- How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
+- How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
 ##10. Performance
 
@@ -132,7 +146,7 @@ This guide will eventually be made into a website.
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
 - How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/), [Responsive design, & web page sizes](http://www.lukew.com/ff/entry.asp?1681)
 - Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
-- Do you really need a framework for that thing or can you just use pure CSS or pure JS?
+- Do you really need a framework for that thing or can you just use pure CSS or pure JS? [You might not need jquery](http://youmightnotneedjquery.com/)
 - If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
 - Are you minifying the CSS/JS? Are you concatenating multiple files into single files?
 - Are you using conditional loading? [Conditional loading](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#conditional-loading)
@@ -157,12 +171,11 @@ This guide will eventually be made into a website.
 
 ##12. Testing
 
-- [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
-- [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
-- [Open device lab](http://opendevicelab.com/)
-- [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
-- [BrowserStack](http://www.browserstack.com/start)
-- [Node Browserify](https://github.com/substack/node-browserify)
+- How to start your own open device lab - [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
+- Getting access to devices on a shoe string - [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
+- Find out if you have an open device lab near you - [Open device lab](http://opendevicelab.com/)
+- Making a portable open device lab [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
+- An application for testing a cross multiple browsers and devices - [BrowserStack](http://www.browserstack.com/start)
 
 ##13. Deliverables
 
@@ -177,5 +190,6 @@ This guide will eventually be made into a website.
 
 #B. Team deliverables
 
+- A guide for writing content in the right voice &amp; tone [Voice and Tone: Mailchimp] (http://voiceandtone.com/)
 - An example pattern library - [A List apart pattern library](http://patterns.alistapart.com/)
 
