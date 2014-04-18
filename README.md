@@ -105,6 +105,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Multilayer CSS [MCSS](http://operatino.github.io/MCSS/en/)
 - Discussion on the different CSS Architecture methodologies [CSS Strategy](http://snugug.com/musings/css-strategy)
 - Combining OOCSS with Sass [OOCSS + Sass = The best way to CSS] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
+- A tool to measure your CSS reuse [CSS Stats](http://www.cssstats.com/#/)
 
 ##8. Typography - Establishing tone and making it readable
 
@@ -125,6 +126,7 @@ These are resources and tools that I think are excellent and add value to how we
 - On proportions and rhythm in responsive design [A more modern scale for web typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - Selecting type with the appropriate tone, a helping guide [Type finder](http://www.type-finder.com/)
 - Some pre-selected type pairings as example [Just my type](http://justmytype.co/)
+- An argument to why you might want to leave the base font size alone [How we learned to leave the body font size alone](http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/)
 
 ##9. Embracing viewport flexibility
 
@@ -164,7 +166,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
 - How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/), [Responsive design, & web page sizes](http://www.lukew.com/ff/entry.asp?1681)
 - Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
-- Do you really need a framework for that thing or can you just use pure CSS or pure JS? [You might not need jquery](http://youmightnotneedjquery.com/)
+- Do you really need a framework for that thing or can you just use pure CSS or pure JS? [You might not need jQuery](http://youmightnotneedjquery.com/), [You might need jQuery](http://cognition.happycog.com/article/you-might-need-jquery)
 - If you’ve put the media queries in elements (a technique seen more with Sass/LESS) have you used a method to reorganise media queries to reduce code bloat? [Sass and media queries](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32), [Grunt combine media queries](https://npmjs.org/package/grunt-combine-media-queries), [Grunt uncss](https://github.com/addyosmani/grunt-uncss)
 - Are you minifying the CSS/JS? Are you concatenating multiple files into single files?
 - Are you using conditional loading? [Conditional loading](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#conditional-loading)
