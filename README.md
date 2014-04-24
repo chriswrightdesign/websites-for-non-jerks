@@ -115,6 +115,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##8. Typography - Establishing tone and making it readable
 
+- The Psychology of fonts [What's in a font](http://www.psychologyinaction.org/2011/04/21/whats-in-a-font/)
 - The value of typography on the web - [The web is 95% typography](http://ia.net/blog/the-web-is-all-about-typography-period/)
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
 - Have you checked if that system font you're using will actually display on other devices and platforms? I'm looking at you Helvetica Neue [Tinytype - a compatibility table showing the available default system fonts across different mobie platforms](http://www.jordanm.co.uk/tinytype)
@@ -152,7 +153,8 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##10. Understanding flexible media
 
-- Did you weep and question your life choices when you saw the state of responsive images? [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
+- A detailed look at Srcset and sizes [srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/)
+- Did you weep and question your life choices when you saw the state of responsive images? (article now slowly going out of date, thankfully) [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
 - Do you have a lazy load solution for larger pages with lots of images or data that’s not immediately needed? [Echo.js, simple Javascript lazy loading solution](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
 - Have you used SVGs (with PNG fallback) or Webfonts where you can?
@@ -190,7 +192,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##12. Bringing the design alive - Kinetic / Animation
 
-- Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3)
+- Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) [Improve the payment experience with animations](https://medium.com/p/3d1b0a9b810e)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
 - [Web animation at work](http://alistapart.com/article/web-animation-at-work)
 - Does the easing and timing match the personality of the interface?
