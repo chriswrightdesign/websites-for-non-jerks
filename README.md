@@ -192,10 +192,10 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##12. Bringing the design alive - Kinetic / Animation
 
-- Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) [Improve the payment experience with animations](https://medium.com/p/3d1b0a9b810e)
+- Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) [Improve the payment experience with animations](https://medium.com/p/3d1b0a9b810e) [Meaningful Transitions](http://www.ui-transitions.com/#home)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
 - [Web animation at work](http://alistapart.com/article/web-animation-at-work)
-- Does the easing and timing match the personality of the interface?
+- Does the easing and timing match the personality of the interface? [Motion Ui Principles](http://www.beyondkinetic.com/motion-ui-design-principles)
 - A primer on what animation properties perform the best [A tale of animation performance](http://css-tricks.com/tale-of-animation-performance/)
 - Rendering performance [JankFree](http://jankfree.org/)
 - A visual reference of animatable properties [Animatable - One property, two values, endless possibilities](http://leaverou.github.io/animatable/)
