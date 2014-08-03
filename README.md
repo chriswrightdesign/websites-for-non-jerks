@@ -175,6 +175,8 @@ These are resources and tools that I think are excellent and add value to how we
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
 - Have you minimised HTTP requests to free up memory? [Google best practices](https://developers.google.com/speed/docs/best-practices/request)
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
+- [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
+- ['RWD is bad for performance' is good for performance](http://timkadlec.com/2014/07/rwd-is-bad-for-performance-is-good-for-performance/)
 - How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/), [Responsive design, & web page sizes](http://www.lukew.com/ff/entry.asp?1681)
 - Did you order non blocking resources first? did you use async on the JS? [Script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 - Do you really need a framework for that thing or can you just use pure CSS or pure JS? [You might not need jQuery](http://youmightnotneedjquery.com/), [You might need jQuery](http://cognition.happycog.com/article/you-might-need-jquery)
