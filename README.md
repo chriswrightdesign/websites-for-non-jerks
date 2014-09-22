@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.42a - This guide will eventually be made into a website.
+v0.43a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -34,7 +34,7 @@ These are resources and tools that I think are excellent and add value to how we
 - A visual look at some of the cognitive biases we have [Cognitive biases - a visual study guide](http://www.scribd.com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide)
 
 
-##3. Accessibility and making websites for all
+##3. Inclusive by design
 
 - [An alphabet of Accessibility issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 - [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
@@ -112,6 +112,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Combining SMACSS and Sass [How to scale and maintain legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
 - Object oriented CSS [OOCSS] (http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss-2/)
 - Multilayer CSS [MCSS](http://operatino.github.io/MCSS/en/)
+- An approach using Attribute Modules [AMCSS](http://glenmaddern.com/articles/introducing-am-css)
 - Discussion on the different CSS Architecture methodologies [CSS Strategy](http://snugug.com/musings/css-strategy)
 - Combining OOCSS with Sass [OOCSS + Sass = The best way to CSS] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
 - A tool to measure your CSS reuse [CSS Stats](http://www.cssstats.com/#/)
@@ -156,8 +157,9 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##10. Understanding flexible media
 
+- When to use Picture, sizes, srcset [Don't use picture most of the time](http://blog.cloudfour.com/dont-use-picture-most-of-the-time/)
 - A detailed look at Srcset and sizes [srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/)
-- Did you weep and question your life choices when you saw the state of responsive images? (article now slowly going out of date, thankfully) [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
+- Where we've come from on responsive images - this is now dated) [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
 - Have you got a responsive image solution? Does it display an image with JS turned off? [PictureFill.js polyfill](https://github.com/scottjehl/picturefill)
 - Do you have a lazy load solution for larger pages with lots of images or data that’s not immediately needed? [Echo.js, simple Javascript lazy loading solution](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
 - Have you used SVGs (with PNG fallback) or Webfonts where you can?
@@ -171,7 +173,7 @@ These are resources and tools that I think are excellent and add value to how we
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
-##11. Avoid frustrating people: Care about performance
+##11. Avoid frustrating people: performance
 
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
