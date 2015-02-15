@@ -22,6 +22,8 @@ These are resources and tools that I think are excellent and add value to how we
 - Better understanding client and business priorities - [The priority &amp; feasability plot](http://goodkickoffmeetings.com/2010/04/priority-feasibility-plot/)
 - A Group process for establishing priorities [The KJ Technique](http://www.uie.com/articles/kj_technique/)
 - Setting the tone and personality of the brand - [Design personas](http://aarronwalter.com/design-personas/)
+- A great branding tool - [The Brand Deck](https://www.kickstarter.com/projects/simplescott/the-brand-deck)
+- Better interaction design - [Get mental notes](http://getmentalnotes.com/)
 - Useful questions for project and client [One size fits none](http://cognition.happycog.com/article/one-size-fits-none)
 - Set your goals early so you can get better feedback [Getting better feedback](http://muledesign.com/2010/12/giving-better-design-feedback/)
 - Establishing goals for feedback [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/)
