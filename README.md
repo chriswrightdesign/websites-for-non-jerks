@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.44a - This guide will eventually be made into a website.
+v0.45a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -56,16 +56,14 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##4. Thinking about content first
 
-- Have all design decisions enhanced and emphasized the content? [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
-- Are you chunking content to allow for skim reading and ease of re-use? [Don't let paper paradigms drive your digital strategy](http://blogs.hbr.org/2013/06/dont-let-paper-paradigms-drive/)
-- Embraced high quality writing? [Website reading](http://www.nngroup.com/articles/website-reading/), [Blah-blah text - keep,cut or kill](http://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/)
-- Has the content driven the design decisions, or has it been visa versa?
-- Have you focused on cutting down to just the important stuff on the homepage instead of trying to cram everything on the one page? [Minimize cognitive load](http://www.nngroup.com/articles/minimize-cognitive-load/)
-- Have you revisited the hierarchy of important information? [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
-- Are you hiding useful content for people because you assume they won’t use it?  [Content parity](http://gomakethings.com/content-parity-on-the-web/), [State of mobile web sources](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
-- If you’re using a CMS is it set up for multiple types of headline so the important headline doesn’t get truncated randomly?
-- Do you really need that image carousel or is it just politically convenient? [Auto-Forwarding Carousels annoy users and Reduce visibility](http://www.nngroup.com/articles/auto-forwarding/), [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats (updated)](http://weedygarden.net/2013/07/carousel-interaction-stats/), [Carousels](http://bradfrostweb.com/blog/post/carousels/), [Designing effective carousels](http://www.nngroup.com/articles/designing-effective-carousels/)
-- Have you organised tables based on how people will use the info? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
+- Emphasize the content [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
+- Chunk content to allow for easier skim reading [Don't let paper paradigms drive your digital strategy](http://blogs.hbr.org/2013/06/dont-let-paper-paradigms-drive/)
+- High quality writing [Website reading](http://www.nngroup.com/articles/website-reading/), [Blah-blah text - keep,cut or kill](http://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/)
+- Only include what's important [Minimize cognitive load](http://www.nngroup.com/articles/minimize-cognitive-load/)
+- The hierarchy of important information [Content priority guide](http://seesparkbox.com/foundry/content_priority_guide)
+- Hiding content isn't always a great idea  [Content parity](http://gomakethings.com/content-parity-on-the-web/), [State of mobile web sources](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
+- Consider avoiding carousels [Auto-Forwarding Carousels annoy users and Reduce visibility](http://www.nngroup.com/articles/auto-forwarding/), [Three ideas that convert better than a carousel](http://econsultancy.com/au/blog/62715-three-ideas-that-convert-better-than-a-standard-carousel), [Carousel interaction stats (updated)](http://weedygarden.net/2013/07/carousel-interaction-stats/), [Carousels](http://bradfrostweb.com/blog/post/carousels/), [Designing effective carousels](http://www.nngroup.com/articles/designing-effective-carousels/)
+- Have you considered how your tables will work responsively? [Picking a responsive tables solution](http://blog.cloudfour.com/picking-responsive-tables-solution/)
 - Avoiding the "crowbar" scenario [The content quandry](http://www.webcontentstrategy.com.au/the-content-quandary-when-the-words-wont-fit/)
 - Some example content snippets to help avoid lorem ipsum [Content snippets - specific copy examples](http://www.contentsnippets.com/)
 
@@ -75,14 +73,11 @@ These are resources and tools that I think are excellent and add value to how we
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
 - Are the button hit areas large enough (min 44px) for a finger/thumb? [Apple's guidelines](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/DesigningNativeApp/DesigningNativeApp.html#//apple_ref/doc/uid/TP40006556-CH4-SW1), [Windows guidelines](http://go.microsoft.com/?linkid=9713252), [Nokia's Guidlines](http://library.developer.nokia.com/index.jsp?topic=/S60_5th_Edition_Cpp_Developers_Library/GUID-5486EFD3-4660-4C19-A007-286DE48F6EEF.html)
 - Have you got feature detection? Can your site/app tell the difference between a click and a tap? a swipe? [Modernizr](http://modernizr.com/), [Modernizr server](https://github.com/jamesgpearce/modernizr-server)
-- If something required click drag, did you cover swipe?
 - Are you making the visitor wait 300ms for a tap gesture? [Avoiding the 300ms click delay](http://timkadlec.com/2013/11/Avoiding-the-300ms-click-delay-accessibly/)
-- Are you aware of the different quirks between iOS to Android to Windows Phones? [CanIuse](http://caniuse.com/)
-- Not using unicode for hamburger menus (Android will not render)? [Unicode hamburger does not work](https://twitter.com/davatron5000/status/341646818926530560)
-- Will a tap-drag (selection of text) cause a problem with your interface?
-- If you used a fixed header on your site, did you try pinching your site to see if it’s still good on a smaller device? [Fixed position](http://bradfrostweb.com/blog/mobile/fixed-position/), [Mobile web problems](http://bradfrostweb.com/blog/post/mobile-web-problems/)
+- Understanding feature support [CanIuse](http://caniuse.com/)
+- Avoid unicode for 'hamburger' menus? [Unicode hamburger does not work](https://twitter.com/davatron5000/status/341646818926530560)
+- Beware of fixed position headers on android devices [Fixed position](http://bradfrostweb.com/blog/mobile/fixed-position/), [Mobile web problems](http://bradfrostweb.com/blog/post/mobile-web-problems/)
 - How are you dealing with complex navigation? If you have a massively complex site structure have you provided in site search? [Responsive navigation patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
-- If you're using offscreen navigation, have you put a containing div for the overflow hidden to deal with the Android body overflow hidden issue?
 - Have you designed with thumb flow in mind? [Designing for thumb flow](http://www.lukew.com/ff/entry.asp?1734)
 - Are you relying on hover for anything? [Non hover](http://trentwalton.com/2010/07/05/non-hover/)
 - Are you expecting the user to make discoveries without signposts? (eg. Swipe without any indication that they can swipe) [Don't make me think](http://www.sensible.com/dmmt.html), [Just in time education](http://www.lukew.com/ff/entry.asp?1786)
@@ -93,7 +88,7 @@ These are resources and tools that I think are excellent and add value to how we
 - If you use pagination, do you allow users to view all? [Users' pagination preferences and 'View all'](http://www.nngroup.com/articles/item-list-view-all/)
 - How have you determined what browsers and devices you've optimized for and what browsers and devices you simply support? [Support Vs. Optimization](http://bradfrostweb.com/blog/mobile/support-vs-optimization/)
 - If you're making a product, how are users learning to use the product? [User onboarding - lessons from popular web apps](http://www.useronboard.com/)
-- Don't give your users shit work [Don't give your users shit work](http://zachholman.com/posts/shit-work/)
+- Give your users smart work [Don't give your users shit work](http://zachholman.com/posts/shit-work/)
 
 ##6. Easy Forms &amp; Form controls
 
