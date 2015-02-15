@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.43a - This guide will eventually be made into a website.
+v0.44a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -36,6 +36,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##3. Inclusive by design
 
+- [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 - [An alphabet of Accessibility issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 - [Why bother with accessibility?](http://24ways.org/2013/why-bother-with-accessibility/)
 - Structured your markup well and in a way that makes sense? [Semantic structure and why it's important](http://webaim.org/techniques/semanticstructure/)
