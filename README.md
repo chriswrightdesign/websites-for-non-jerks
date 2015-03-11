@@ -70,6 +70,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##5. Making things more usable
 
+- Understanding device inputs [Touch/pointer events test reulsts](https://patrickhlauke.github.io/touch/tests/results/)
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
 - Are you making assumptions about portable device usage? [When and where are people using mobile devices](http://www.lukew.com/ff/entry.asp?1263)
 - Are the button hit areas large enough (min 44px) for a finger/thumb? [Apple's guidelines](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/DesigningNativeApp/DesigningNativeApp.html#//apple_ref/doc/uid/TP40006556-CH4-SW1), [Windows guidelines](http://go.microsoft.com/?linkid=9713252), [Nokia's Guidlines](http://library.developer.nokia.com/index.jsp?topic=/S60_5th_Edition_Cpp_Developers_Library/GUID-5486EFD3-4660-4C19-A007-286DE48F6EEF.html)
