@@ -27,6 +27,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Useful questions for project and client [One size fits none](http://cognition.happycog.com/article/one-size-fits-none)
 - Set your goals early so you can get better feedback [Getting better feedback](http://muledesign.com/2010/12/giving-better-design-feedback/)
 - Establishing goals for feedback [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/)
+- Need to refactor? [Interface inventory](http://bradfrost.com/blog/post/interface-inventory/)
 
 ##2. Better design decisions
 
