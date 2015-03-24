@@ -1,7 +1,7 @@
 Websites for non-jerks
 =======================
 
-v0.47a - This guide will eventually be made into a website.
+v0.48a - This guide will eventually be made into a website.
 
 A guide for friendly websites (accessible, performant, progressively enhanced, and portable device happy).
 
@@ -182,11 +182,13 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##11. Avoid frustrating people: performance
 
+- [Inlining Critical CSS for first time visits](https://adactio.com/journal/8504)
+- [Critical CSS and performance](http://dbushell.com/2015/02/19/critical-css-and-performance/) 
+- [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
 - Have you minimised HTTP requests to free up memory? [Google best practices](https://developers.google.com/speed/docs/best-practices/request)
 - Have you minimised the repaints and reflows? [Repaints and reflows, manipulating the DOM responsibly](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom-responsibly)
-- [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
 - ['RWD is bad for performance' is good for performance](http://timkadlec.com/2014/07/rwd-is-bad-for-performance-is-good-for-performance/)
 - [RWD Bloat Part 1](http://daverupert.com/2014/07/rwd-bloat/)
 - How many kb (or meg) are people downloading on portable devices? is it reasonable to have them download that much per page? [How to lose weight in the browser](http://browserdiet.com/), [Responsive design, & web page sizes](http://www.lukew.com/ff/entry.asp?1681)
