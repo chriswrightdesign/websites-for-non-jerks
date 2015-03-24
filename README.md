@@ -157,7 +157,11 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##10. Understanding flexible media
 
-- Responsive Images 101 [Part1 - Definitions](http://blog.cloudfour.com/responsive-images-101-definitions/), [Part 2 - Image required](http://blog.cloudfour.com/responsive-images-101-part-2-img-required/), [Part 3 - Srcset display density](http://blog.cloudfour.com/responsive-images-101-part-3-srcset-display-density/), [Part 4 - Srcset width descriptors](http://blog.cloudfour.com/responsive-images-101-part-4-srcset-width-descriptors/), [Part 5 - Sizes](http://blog.cloudfour.com/responsive-images-101-part-5-sizes/)
+- Responsive Images 101 [Part1 - Definitions](http://blog.cloudfour.com/responsive-images-101-definitions/)
+- [Part 2 - Image required](http://blog.cloudfour.com/responsive-images-101-part-2-img-required/)
+- [Part 3 - Srcset display density](http://blog.cloudfour.com/responsive-images-101-part-3-srcset-display-density/)
+- [Part 4 - Srcset width descriptors](http://blog.cloudfour.com/responsive-images-101-part-4-srcset-width-descriptors/)
+- [Part 5 - Sizes](http://blog.cloudfour.com/responsive-images-101-part-5-sizes/)
 - When to use Picture, sizes, srcset [Don't use picture most of the time](http://blog.cloudfour.com/dont-use-picture-most-of-the-time/)
 - A detailed look at Srcset and sizes [srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/)
 - Where we've come from on responsive images - this is now dated) [The state of responsive images](http://html5doctor.com/responsive-images-end-of-year-report/)
