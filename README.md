@@ -54,6 +54,7 @@ These are resources and tools that I think are excellent and add value to how we
 - How are you communicating the current page? [The accessible current page link conundrum](http://www.heydonworks.com/article/the-accessible-current-page-link-conundrum)
 - No one needs a carousel, but if you ignore me, here's some instructions on getting them to work accessibly [Carousels and aria tabs](http://www.webaxe.org/carousels-and-aria-tabs)
 - Since very few people understand the accessibility guidelines fully, the BBC have provided us with a simplified version [Best practice accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
+- [Accessibility lawsuits in america](http://www.accessibilityoz.com/2015/03/accessibility-lawsuits-in-america/)
 
 
 ##4. Thinking about content first
@@ -95,6 +96,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##6. Easy Forms &amp; Form controls
 
+- Select tags: the UI of last resort [Burn your select tags](https://youtu.be/CUkMCQR4TpY)
 - Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416) [Video: Increase form conversion](http://www.youtube.com/watch?v=ulJwW6zfR_o)
 - Reduced the number of fields? Is all the data you’re making them input really necessary? [Case Study: Fewer input fields increases conversion](http://www.lukew.com/ff/entry.asp?910)
 - Are your errors clear and in non-programmer language?
