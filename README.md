@@ -38,7 +38,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 
 ##3. Inclusive by design
-
+- [Accessibility Wins](http://a11ywins.tumblr.com/) - Marcy Sutton's Positive Accessibility examples
 - [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 - [Aria Examples](http://heydonworks.com/practical_aria_examples/) - Some practical ARIA examples to enhance your application accessibility
 - ARIA website boilerplate [Aria Bones](http://ariabones.com/)
@@ -146,6 +146,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##9. Embracing viewport flexibility
 
+- Media Queries Level 4 [Interaction Features and their potential (for incorrect assumptions)](https://dev.opera.com/articles/media-features/)
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
 - How does your site behave ‘between’ the media queries? [7 Habits of highly effective media queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/#content), [The trouble with android](http://stephanierieger.com/the-trouble-with-android/)
 - Are your media queries Em-based? [http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/](The ems have it - proportional media queries)
