@@ -39,6 +39,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##3. Inclusive by design
 - [Accessibility Wins](http://a11ywins.tumblr.com/) - Marcy Sutton's Positive Accessibility examples
+- [UX accessibility with aria label](https://dev.opera.com/articles/ux-accessibility-aria-label/)
 - [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 - [Aria Examples](http://heydonworks.com/practical_aria_examples/) - Some practical ARIA examples to enhance your application accessibility
 - ARIA website boilerplate [Aria Bones](http://ariabones.com/)
@@ -186,8 +187,9 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##11. Avoid frustrating people: performance
 
+- [More Weight doesn't mean more wait](http://www.filamentgroup.com/lab/weight-wait.html)
 - [Inlining Critical CSS for first time visits](https://adactio.com/journal/8504)
-- [Critical CSS and performance](http://dbushell.com/2015/02/19/critical-css-and-performance/) 
+- [Critical CSS and performance](http://dbushell.com/2015/02/19/critical-css-and-performance/)
 - [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
 - Have you set a performance budget? [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 - Considered page load time and how it affects your visitors? [Loading time](http://blog.kissmetrics.com/loading-time/)
