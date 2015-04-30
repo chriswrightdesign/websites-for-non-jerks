@@ -124,6 +124,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 ##8. Typography - Establishing tone and making it readable
 
+- [Baseline Grids and the web](http://jasonsantamaria.com/articles/baseline-grids-on-the-web)
 - The Psychology of fonts [What's in a font](http://www.psychologyinaction.org/2011/04/21/whats-in-a-font/), [Effects of typography on reader mood and productivity](http://usabilitypost.com/2012/11/23/effects-of-typography-on-reader-mood-and-productivity/)
 - The value of typography on the web - [The web is 95% typography](http://ia.net/blog/the-web-is-all-about-typography-period/)
 - Can you read the type clearly? [I'm sick of your tiny, tiny type](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
