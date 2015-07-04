@@ -38,6 +38,7 @@ These are resources and tools that I think are excellent and add value to how we
 
 
 ##3. Inclusive by design
+- [A (Rough) Manifesto for Accessible User Experience](https://medium.com/@accessibleux/rough-manifesto-for-accessible-user-experience-10a3ea34a3d6) - A philosophy of Accessible user experience built by the community
 - [Accessibility Wins](http://a11ywins.tumblr.com/) - Marcy Sutton's Positive Accessibility examples
 - [UX accessibility with aria label](https://dev.opera.com/articles/ux-accessibility-aria-label/)
 - [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
